@@ -1,0 +1,13 @@
+com.zeitheron.hammercore.client.utils
+me.shedaniel.rei
+me.shedaniel.rei.api
+me.shedaniel.rei.client
+me.shedaniel.rei.gui
+me.shedaniel.rei.gui.config
+me.shedaniel.rei.gui.credits
+me.shedaniel.rei.gui.renderables
+me.shedaniel.rei.gui.widget
+me.shedaniel.rei.listeners
+me.shedaniel.rei.mixin
+me.shedaniel.rei.plugin
+me.shedaniel.rei.utils
